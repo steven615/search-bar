@@ -1,0 +1,1 @@
+npx json-server --watch data.json --routes routes.json --port 3001

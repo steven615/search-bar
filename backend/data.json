@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"id": 1, "name": "wooden bed1", "price": "$10", "image": "bed1.jpg"},
+    {"id": 2, "name": "wooden bed2", "price": "$10", "image": "bed2.jpg"},
+    {"id": 3, "name": "ipad1", "price": "$10", "image": "ipad1.jpg"},
+    {"id": 4, "name": "ipad2", "price": "$10", "image": "ipad2.jpg"},
+    {"id": 5, "name": "camera1", "price": "$10", "image": "camera1.jpg"},
+    {"id": 6, "name": "camera2", "price": "$10", "image": "camera2.jpg"}
+  ]
+}
